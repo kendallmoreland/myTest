@@ -7,7 +7,7 @@
 #How to use:
 #Run the GUI, type the name of a computer, and choose your option
 #
-#
+#Added a comment to test github
 
 
 Add-Type -AssemblyName presentationframework, presentationcore
